@@ -1,0 +1,23 @@
+.button{
+  font-size: 20px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: none;
+  background-color: #2FB5FC;
+  color: white;
+  font-weight: bold;
+  /* color: white; */
+  cursor: pointer;
+  
+}
+.backButton{
+  font-size: 14px;
+  font-weight: bold;
+  background-color: #2FB5FC;
+  border-radius: 8px;
+  padding: 10px 30px;
+  
+  /* color: rgb(148, 163, 184); */
+  color: white;
+  cursor: pointer;
+}
